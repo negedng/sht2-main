@@ -1,1 +1,1 @@
-export default () => <h1>v1</h1>;
+export default () => <h1>C edited v2</h1>;
