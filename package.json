@@ -20,7 +20,7 @@
   "homepage": "https://github.com/negedng/sht2-main#readme",
   "dependencies": {
     "cross-env": "^10.1.0",
-    "shadow-sync": "github:negedng/test-main",
+    "shadow-sync": "github:negedng/shadow-sync",
     "tsx": "^4.21.0"
   }
 }
